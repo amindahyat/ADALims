@@ -134,42 +134,42 @@
 > **راهنما:** تصاویر زیر فقط به‌عنوان نمونه قرار داده شده‌اند. لطفاً اسکرین‌شات‌های واقعی برنامه را در پوشه‌ی `screenshots/` با همین نام‌ها قرار دهید.
 
 <p align="center">
-  <img src="screenshots/Main.png" alt="صفحه اصلی" width="700"/>
+  <img src="screenshots/1.png" alt="صفحه اصلی" width="700"/>
 </p>
 <p align="center">
   <em>صفحه‌ی اصلی با دسترسی‌های مختلف</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/paziresh_jadid.png" alt="پذیرش نمونه" width="700"/>
+  <img src="screenshots/2.png" alt="پذیرش نمونه" width="700"/>
 </p>
 <p align="center">
   <em>فرم پذیرش نمونه با انتخاب آزمون‌ها</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/sabt_natije.png" alt="ثبت نتایج" width="700"/>
+  <img src="screenshots/11.png" alt="ثبت نتایج" width="700"/>
 </p>
 <p align="center">
   <em>ثبت نتایج آزمون و نمایش انطباق</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/confirm_result.png" alt="تأیید نتایج" width="700"/>
+  <img src="screenshots/12.png" alt="تأیید نتایج" width="700"/>
 </p>
 <p align="center">
   <em>تأیید نتایج توسط مدیر فنی</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/gozaresh_mali.png" alt="گزارش مالی" width="700"/>
+  <img src="screenshots/6.png" alt="گزارش مالی" width="700"/>
 </p>
 <p align="center">
   <em>گزارش مالی با جمع‌بندی بدهی و پرداختی</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/anbar.png" alt="مدیریت انبار" width="700"/>
+  <img src="screenshots/9.png" alt="مدیریت انبار" width="700"/>
 </p>
 <p align="center">
   <em>مدیریت ورود و خروج نمونه‌ها از انبار</em>
